@@ -8,6 +8,7 @@
 ##### [mysql](https://drive.google.com/drive/folders/1aoXFKWdXXWtKA60cp0-Ta7-YX3k0Mv9S?usp=sharing)
 ##### [statistics](https://drive.google.com/drive/folders/1D7Tq6irYgGomK8cmagErYoG38gUSKvx6?usp=sharing)
 ##### [exploratory data analysis](https://drive.google.com/drive/folders/1GYf-4GFIL0BtslmUCpRnR0dNJuLixcEF?usp=sharing)
+##### [powerbi](https://drive.google.com/drive/folders/1_wmXaAnbYiR1cN2e00hGeI-Wr1WeVZP6?usp=sharing)
 ---
 ##### [open ai swarm](https://drive.google.com/drive/folders/1HfKr5-4lJcll7XzKZ1nT6HDfuQbqsCoS?usp=sharing)
 ##### [polars gpu engine](https://drive.google.com/drive/folders/1il_biZAF1yxQ04_ZrGFEX5YIlTh0p7SI?usp=sharing)
